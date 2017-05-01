@@ -1,0 +1,9 @@
+﻿  Cliente.cpp
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(51): warning C4101: 'n': unreferenced local variable
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(104): warning C4101: 'frase': unreferenced local variable
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(103): warning C4101: 'buf': unreferenced local variable
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(101): warning C4101: 'ret': unreferenced local variable
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(128): warning C4101: 'frase': unreferenced local variable
+c:\users\vitor\google drive\so2\tp_so2_1617\clienteconsola\cliente.cpp(127): warning C4101: 'buf': unreferenced local variable
+  ClienteConsola.vcxproj -> C:\Users\Vitor\Google Drive\SO2\TP_SO2_1617\Debug\ClienteConsola.exe
+  ClienteConsola.vcxproj -> C:\Users\Vitor\Google Drive\SO2\TP_SO2_1617\Debug\ClienteConsola.pdb (Full PDB)
